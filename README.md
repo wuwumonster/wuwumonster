@@ -3,6 +3,6 @@
 - 😧 CTF竞赛划水选手
 - 👨‍💻 熬夜战神
 - 💻 星际人族玩家
-
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuwumonster&show_icons=true)
+- 📧 有事联系 wuwumonster@qq.com
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuwumonster&show_icons=true&theme=radical)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=wuwumonster&theme=dracula)
